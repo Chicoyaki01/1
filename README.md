@@ -6,7 +6,6 @@ git clone https://github.com/Chicoyaki01/Arch.git
 
 chmod +x auto.sh
 ./auto.sh
-chmod +x yay.sh
-./yay.sh
 chmod +x bspwm.sh
+./bspwm.sh
 ```
