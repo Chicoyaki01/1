@@ -5,7 +5,8 @@ makepkg -si
 cd ../
 rm -rf yay
 
-yay -S google-chrome yadm kime polybar ttf-unifont siji-git
+yay -S google-chrome yadm kime polybar ttf-unifont siji-git nerd-fonts-complete
+
 
 
 yadm clone https://github.com/Chicoyaki01/bspwm.git
