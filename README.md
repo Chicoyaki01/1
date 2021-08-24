@@ -8,4 +8,5 @@ chmod +x auto.sh
 ./auto.sh
 chmod +x yay.sh
 ./yay.sh
+chmod +x bspwm.sh
 ```

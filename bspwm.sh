@@ -1,9 +1,10 @@
-git clone https://aur.archlinux.org/yay.git
 cd ~
+git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 cd ../
 rm -rf yay
+
 yay -S google-chrome yadm kime
 
 yadm clone https://github.com/Chicoyaki01/bspwm.git
