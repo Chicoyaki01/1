@@ -1,4 +1,4 @@
-it clone https://aur.archlinux.org/yay.git
+git clone https://aur.archlinux.org/yay.git
 cd ~
 cd yay
 makepkg -si
