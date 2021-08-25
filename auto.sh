@@ -35,7 +35,7 @@ echo "You have to edit 'sudo nano /etc/sudoers'."
 echo "#%wheel ALL= <----- remove #"
 echo "%wheel ALL= <---- Look like this"
 
-sudo pacman -S xorg bspwm sxhkd rofi alacritty lightdm lightdm-gtk-greeter 
+sudo pacman -S xorg bspwm sxhkd rofi alacritty lightdm lightdm-gtk-greeter pulseaudio pavucontrol
 sudo pacman -S lightdm-gtk-greeter-settings nitrogen lxappearance picom nautilus 
 sudo pacman -S noto-fonts noto-fonts-cjk xorg-fonts-misc
 sudo systemctl enable lightdm
