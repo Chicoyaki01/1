@@ -37,5 +37,5 @@ echo "%wheel ALL= <---- Look like this"
 
 sudo pacman -S xorg bspwm sxhkd rofi alacritty lightdm lightdm-gtk-greeter pulseaudio pavucontrol
 sudo pacman -S lightdm-gtk-greeter-settings nitrogen lxappearance picom nautilus 
-sudo pacman -S noto-fonts noto-fonts-cjk xorg-fonts-misc zsh-completions playerctl hub
+sudo pacman -S noto-fonts noto-fonts-cjk xorg-fonts-misc zsh-completions playerctl hub zsh
 sudo systemctl enable lightdm
