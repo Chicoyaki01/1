@@ -5,7 +5,7 @@ makepkg -si
 cd ../
 rm -rf yay
 
-yay -S google-chrome yadm kime polybar ttf-unifont siji-git nerd-fonts-complete
+yay -S google-chrome yadm kime polybar ttf-unifont siji-git nerd-fonts-complete spotify zscroll-git
 
 
 
